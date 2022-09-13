@@ -20,6 +20,7 @@ lerna-debug.log*
 
 # Tests and Coverage
 coverage/
+coverage_node/
 
 # Python
 
